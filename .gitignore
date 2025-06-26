@@ -195,3 +195,5 @@ cython_debug/
 
 MPI-FAUST/
 fixed_datasets/
+Word_Embeddings/data
+Cells/j.csv
